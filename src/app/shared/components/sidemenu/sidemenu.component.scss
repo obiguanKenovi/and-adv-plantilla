@@ -1,0 +1,10 @@
+::ng-deep{
+    .dark-mode{
+        .app.sidebar-mini.sidenav-toggled.sidenav-toggled-open .app-sidebar .side-header .header-brand-img.light-logo1{
+            display: none !important;
+        }
+        .app.sidebar-mini.sidenav-toggled.sidenav-toggled-open .app-sidebar .side-header .header-brand-img.desktop-logo{
+            display: block !important;
+        }
+    }
+}
